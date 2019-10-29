@@ -39,6 +39,6 @@ phat | 1234 |
 Name | Position
 -----|----- |
 Teerayuth Artidakorn | Developer |
-Phat Rungsriborirak | Documnet Controller |
+Phat Rungsriborirak | Document Controller |
 Smarch Poonkwan | Database Designer |
 Bannavith Khuhaprema | Designer |

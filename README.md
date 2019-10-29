@@ -34,6 +34,7 @@ b5910451162 | arm |
 - [x] Singleton Pattern
 
 **Position**
+
 Name | Position
 -----|----- |
 Teerayuth Artidakorn | Developer |

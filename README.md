@@ -17,13 +17,26 @@ b5910451162 | arm |
 
 **Feature**
 
-* User need to login to your account
-* **Curriculum** User can see all course ,course level and user course status (pass or not)
-* **Add Course** User can add your schedule Course
-* **Pre Grade** User can pre calculate user grade by add subject and add grade
-* **User Info** User can see his or her info
+* **Login System** Only Employee of this company can login to application
+* **Sale & Order** Customer Can Order Product and Pay 
+  *For new User Employee must record their Information before Ordering Product
+  *For old User Employee must search their last ordering
+  *For Ordering Customer must paid all the product first then Employee can deliver product to Customer
+  *Customer will get bill when Employee deliver product
+* **Product** 
+  *Employee can see stock in warehouse
+  *Employee can add new Product to Company
+  *Employee can view Customer Status
 
 **Design Pattern**
 - [x] Strategy Pattern
 - [x] Observer Pattern
 - [x] Singleton Pattern
+
+**Position**
+Name | Position
+-----|----- |
+Teerayuth Artidakorn | Developer |
+Phat Rungsriborirak | Documnet Controller |
+Smarch Poonkwan | Database Designer |
+Bannavith Khuhaprema | Designer |

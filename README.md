@@ -20,14 +20,14 @@ phat | 1234 |
 
 * **Login System** Only Employee of this company can login to application
 * **Sale & Order** Customer Can Order Product and Pay 
-  *For new User Employee must record their Information before Ordering Product
-  *For old User Employee must search their last ordering
-  *For Ordering Customer must paid all the product first then Employee can deliver product to Customer
-  *Customer will get bill when Employee deliver product
+  * For new User Employee must record their Information before Ordering Product
+  * For old User Employee must search their last ordering
+  * For Ordering Customer must paid all the product first then Employee can deliver product to Customer
+  * Customer will get bill when Employee deliver product
 * **Product** 
-  *Employee can see stock in warehouse
-  *Employee can add new Product to Company
-  *Employee can view Customer Status
+  * Employee can see stock in warehouse
+  * Employee can add new Product to Company
+  * Employee can view Customer Status
 
 **Design Pattern**
 - [x] Strategy Pattern

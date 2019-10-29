@@ -27,7 +27,7 @@ public class DBConnection {
             Statement statement = connection.createStatement();
             ResultSet resultSet = statement.executeQuery(query);
             while (resultSet.next()) {
-                if (password.equals(resultSet.getString("Password"))) {
+                if (password.equals(resultSet.getString("password"))) {
                     check = true;
                     break;
                 }

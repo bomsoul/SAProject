@@ -12,8 +12,9 @@
 
 Username | Password
 -----|----- |
-b5910450409 | bom |
-b5910451162 | arm |
+bom | 1234 |
+khan | 1234 |
+phat | 1234 |
 
 **Feature**
 

@@ -24,6 +24,6 @@ b5910451162 | arm |
 * **User Info** User can see his or her info
 
 **Design Pattern**
-- [x] Stragy Pattern
+- [x] Strategy pattern
 - [x] Observer Pattern
 - [x] Singleton Pattern

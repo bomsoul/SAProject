@@ -1,6 +1,6 @@
 ## System Analysis Project
 
-*Duo Project this project is an Desktop application of Medical Tools Shop*
+*Duo Project this project is an Desktop application of Medical Tools Shop Using Java, JavaFX, SQLite Database with some Design Pattern*
 
 **Before Running the Project**
 1. Import Project to Your Editor

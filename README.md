@@ -22,3 +22,8 @@ b5910451162 | arm |
 * **Add Course** User can add your schedule Course
 * **Pre Grade** User can pre calculate user grade by add subject and add grade
 * **User Info** User can see his or her info
+
+**Design Pattern**
+- [x] Stragy Pattern
+- [x] Observer Pattern
+- [x] Singleton Pattern
